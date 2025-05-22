@@ -1,0 +1,21 @@
+Python Project Idea - Asia Yang
+ 
+
+Introducing Pawsitive Care Veterinary Clinic! 
+We are dedicated to providing compassionate, expert care to ensure the health and happiness of your pets.
+With our pawsitive approach, we prioritize their well-being every step of the way.
+-----------------------------------------------------------------------------------------------------------
+Pawsitive Care Veterinary Clinic is a console application I will be developing for the final project. This application is to be developed for pet owners who value and prioritize their pets health. 
+
+This clinic does include a database with five tables.
+
+In this application, users will be able to view their personal and pet information, as well as edit their personal information.
+Users cannot edit pet information as that is the organization's responsibility. There is a menu option to register. 
+Users will need to be registered with the clinic to schedule an appointment. The last menu option lets users exit the program. 
+There are 6 total menu options available to the user.
+
+
+
+
+
+ 
